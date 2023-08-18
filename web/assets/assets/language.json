@@ -1,0 +1,646 @@
+{
+    "language": {
+        "kor": "언어",
+        "eng": "Language"
+    },
+    "confirm": {
+        "kor": "확인",
+        "eng": "Confirm"
+    },
+    "cancel": {
+        "kor": "취소",
+        "eng": "Cancel"
+    },
+    "login": {
+        "kor": "로그인",
+        "eng": "Sign in"
+    },
+    "logout": {
+        "kor": "로그아웃",
+        "eng": "Sign out"
+    },
+    "logout_hint": {
+        "kor": "로그아웃 하시겠습니까?",
+        "eng": "Would you like to sign out?"
+    },
+    "login_success": {
+        "kor": "로그인 되었습니다.",
+        "eng": "Signed in."
+    },
+    "logout_success": {
+        "kor": "로그아웃 되었습니다.",
+        "eng": "Signed out."
+    },
+    "login_required": {
+        "kor": "로그인이 필요합니다.",
+        "eng": "Please sign in first."
+    },
+    "notification_setting": {
+        "kor": "알림 설정",
+        "eng": "Notification"
+    },
+    "change_facility_name": {
+        "kor": "시설 이름 변경",
+        "eng": "Change facility name"
+    },
+    "reboot_module": {
+        "kor": "원격 모듈 재시작",
+        "eng": "Reboot"
+    },
+    "add_facility": {
+        "kor": "시설 추가",
+        "eng": "Add facility"
+    },
+    "facility_added": {
+        "kor": "시설이 추가되었습니다.",
+        "eng": "New facility has been added."
+    },
+    "duplicated_facility": {
+        "kor": "이미 등록된 시설입니다.",
+        "eng": "This facility is already registered."
+    },
+    "remove_facility": {
+        "kor": "시설 탈퇴",
+        "eng": "Leave facility"
+    },
+    "app_version": {
+        "kor": "앱 버전",
+        "eng": "App version"
+    },
+    "firmware_version": {
+        "kor": "펌웨어 버전",
+        "eng": "Firmware version"
+    },
+    "device_id": {
+        "kor": "장치 고유 번호",
+        "eng": "Device id"
+    },
+    "environment": {
+        "kor": "환경",
+        "eng": "States"
+    },
+    "control": {
+        "kor": "제어",
+        "eng": "Control"
+    },
+    "cctv": {
+        "kor": "CCTV",
+        "eng": "CCTV"
+    },
+    "automation": {
+        "kor": "자동화",
+        "eng": "Automation"
+    },
+    "setting": {
+        "kor": "설정",
+        "eng": "Settings"
+    },
+    "facility_list": {
+        "kor": "시설 목록",
+        "eng": "My Facilities"
+    },
+    "sign_in_with_google": {
+        "kor": "구글 계정으로 로그인",
+        "eng": "Sign in with google account"
+    },
+    "sign_in_hint": {
+        "kor": "소셜 계정으로 간편하게 로그인하세요!",
+        "eng": "Sign in easily with your social accounts!"
+    },
+    "reboot_dialog_content": {
+        "kor": "원격 모듈을 재시작 하시겠습니까?",
+        "eng": "Do you want to reboot your Dolsoe?"
+    },
+    "reboot": {
+        "kor": "재시작",
+        "eng": "Reboot"
+    },
+    "add": {
+        "kor": "추가",
+        "eng": "Add"
+    },
+    "facility_remove_dialog_content": {
+        "kor": "이 시설을 탈퇴하시겠습니까?",
+        "eng": "Do you want to delete this facility?"
+    },
+    "remove": {
+        "kor": "삭제",
+        "eng": "Delete"
+    },
+    "edit": {
+        "kor": "편집",
+        "eng": "Edit"
+    },
+    "complete": {
+        "kor": "완료",
+        "eng": "Done"
+    },
+    "group": {
+        "kor": "그룹",
+        "eng": "Group"
+    },
+    "opening": {
+        "kor": "여는 중",
+        "eng": "Opening"
+    },
+    "closing": {
+        "kor": "닫는 중",
+        "eng": "Closing"
+    },
+    "stopped": {
+        "kor": "정지",
+        "eng": "Stopped"
+    },
+    "stop": {
+        "kor": "정지",
+        "eng": "Stop"
+    },
+    "open": {
+        "kor": "열기",
+        "eng": "Open"
+    },
+    "close": {
+        "kor": "닫기",
+        "eng": "Close"
+    },
+    "on": {
+        "kor": "켜기",
+        "eng": "On"
+    },
+    "off": {
+        "kor": "끄기",
+        "eng": "Off"
+    },
+    "is_on": {
+        "kor": "켜짐",
+        "eng": "On"
+    },
+    "is_off": {
+        "kor": "꺼짐",
+        "eng": "Off"
+    },
+    "change_name": {
+        "kor": "이름 변경",
+        "eng": "Change name"
+    },
+    "group_modify": {
+        "kor": "그룹 수정",
+        "eng": "Modify group"
+    },
+    "remove_group": {
+        "kor": "그룹 삭제",
+        "eng": "Delete group"
+    },
+    "motor_group_modify": {
+        "kor": "개폐기 그룹 수정",
+        "eng": "Modify actuator group"
+    },
+    "motor_group_hint": {
+        "kor": "선택한 개폐기를 그룹으로 지정합니다.",
+        "eng": "Group the selected actuators."
+    },
+    "new_motor_group": {
+        "kor": "새로운 개폐기 그룹",
+        "eng": "New actuator group"
+    },
+    "all_motors": {
+        "kor": "전체",
+        "eng": "All actuators"
+    },
+    "need_less_than_one_motor": {
+        "kor": "하나 이상의 개폐기를 등록해주세요.",
+        "eng": "Please select more than one actuator."
+    },
+    "remove_motor_group_dialog_content": {
+        "kor": "이 개폐기 그룹을 삭제하시겠습니까?",
+        "eng": "Do you want to delete this actuator group?"
+    },
+    "order_initialized": {
+        "kor": "순서가 초기화되었습니다.",
+        "eng": "List order has been initialized."
+    },
+    "add_motor_group": {
+        "kor": "개폐기 그룹 생성",
+        "eng": "Add actuator group"
+    },
+    "copied": {
+        "kor": "복사되었습니다.",
+        "eng": "Copied"
+    },
+    "schedule": {
+        "kor": "반복 기능",
+        "eng": "Daily routine"
+    },
+    "standby": {
+        "kor": "대기 중",
+        "eng": "On standby"
+    },
+    "not_using": {
+        "kor": "사용 안 함",
+        "eng": "Disabled"
+    },
+    "save": {
+        "kor": "저장",
+        "eng": "Done"
+    },
+    "schedule_name": {
+        "kor": "반복 기능 이름",
+        "eng": "Name of this routine"
+    },
+    "schedule_start_time": {
+        "kor": "시작 시각",
+        "eng": "Start time"
+    },
+    "schedule_start_time_hint": {
+        "kor": "매일 설정한 시각부터 반복을 시작합니다.",
+        "eng": "Routine begins at this time everyday."
+    },
+    "everyday": {
+        "kor": "매일",
+        "eng": "Everyday"
+    },
+    "midnight": {
+        "kor": "자정",
+        "eng": "Midnight"
+    },
+    "hour": {
+        "kor": "시",
+        "eng": "h"
+    },
+    "minute": {
+        "kor": "분",
+        "eng": "m"
+    },
+    "second": {
+        "kor": "초",
+        "eng": "s"
+    },
+    "hours": {
+        "kor": "시간",
+        "eng": "h"
+    },
+    "schedule_iteration_time": {
+        "kor": "반복 횟수",
+        "eng": "Iterations"
+    },
+    "schedule_iteration_time_hint": {
+        "kor": "작동하는 횟수입니다.",
+        "eng": "Number of iterations."
+    },
+    "schedule_period_time": {
+        "kor": "작동 시간",
+        "eng": "Duration"
+    },
+    "schedule_period_time_hint": {
+        "kor": "매 반복 마다 작동 시간 동안 지정한 장치를 켭니다.",
+        "eng": "Turns on the selected devices for the duration of each iterations."
+    },
+    "schedule_period_time_required": {
+        "kor": "작동 시간을 입력해주세요.",
+        "eng": "Please enter the duration."
+    },
+    "schedule_term": {
+        "kor": "작동 간격",
+        "eng": "Time interval"
+    },
+    "schedule_term_hint": {
+        "kor": "매 반복 사이의 시간 간격입니다.",
+        "eng": "The time interval between each iterations."
+    },
+    "schedule_termination_time": {
+        "kor": "반복 종료 시각",
+        "eng": "Routine ends at"
+    },
+    "schedule_duration_warning": {
+        "kor": "총 반복 시간이 24시간을 넘지 않도록 해주세요. 제대로 동작하지 않을 수 있습니다.",
+        "eng": "The routine longer than a day is not recommended. It may not work properly."
+    },
+    "schedule_switch_hint": {
+        "kor": "선택한 장치가 매 반복마다 켜집니다.",
+        "eng": "Operate the selected devices on this routine."
+    },
+    "remove_schedule": {
+        "kor": "반복 기능 삭제",
+        "eng": "Delete routine"
+    },
+    "remove_schedule_hint": {
+        "kor": "이 반복 기능을 삭제하시겠습니까?",
+        "eng": "Do you want to delete this routine?"
+    },
+    "require_new_name": {
+        "kor": "변경할 이름을 입력해주세요.",
+        "eng": "Please enter the new name."
+    },
+    "name_changed": {
+        "kor": "이름이 변경되었습니다.",
+        "eng": "Name has been changed."
+    },
+    "rebooting": {
+        "kor": "원격 모듈을 재시작하는 중입니다.",
+        "eng": "Rebooting module."
+    },
+    "deleted": {
+        "kor": "삭제되었습니다.",
+        "eng": "Deleted"
+    },
+    "invalid_value": {
+        "kor": "유효하지 않은 값입니다.",
+        "eng": "Invalid value"
+    },
+    "invalid_device_id": {
+        "kor": "존재하지 않는 장치 고유 번호입니다.",
+        "eng": "Invalid device id."
+    },
+    "reload": {
+        "kor": "새로고침",
+        "eng": "Reload"
+    },
+    "signal_button_hint": {
+        "kor": "동작 중입니다.",
+        "eng": "Please wait."
+    },
+    "loading": {
+        "kor": "로딩중입니다...",
+        "eng": "Loading..."
+    },
+    "login_failed": {
+        "kor": "로그인에 실패했습니다. 앱을 다시 실행해주세요.",
+        "eng": "Signin failed. Please restart the app."
+    },
+    "loading_sql": {
+        "kor": "계정 정보 불러오는 중...",
+        "eng": "Loading account informations..."
+    },
+    "loading_device_id": {
+        "kor": "불러오는 중...",
+        "eng": "Loading"
+    },
+    "add_condition": {
+        "kor": "조건 추가",
+        "eng": "Condition"
+    },
+    "raining": {
+        "kor": "비 오는 중",
+        "eng": "Raining"
+    },
+    "not_raining": {
+        "kor": "비 안 옴",
+        "eng": "Not raining"
+    },
+    "rainproof": {
+        "kor": "우적 보호 기능",
+        "eng": "Rain protection"
+    },
+    "activating": {
+        "kor": "조건 일치",
+        "eng": "Activating"
+    },
+    "add_automation": {
+        "kor": "새로운 자동화 추가",
+        "eng": "Add a new automation"
+    },
+    "can_not_add_anymore": {
+        "kor": "더 이상 추가할 수 없습니다.",
+        "eng": "You can not add anymore."
+    },
+    "operating_pre": {
+        "kor": "",
+        "eng": "Running "
+    },
+    "operating_post": {
+        "kor": "회 실행 중",
+        "eng": "times"
+    },
+    "add_schedule": {
+        "kor": "반복 기능 추가",
+        "eng": "Add a new routine"
+    },
+    "remove_automation": {
+        "kor": "자동화 삭제",
+        "eng": "Delete automation"
+    },
+    "remove_automation_content": {
+        "kor": "자동화를 삭제하시겠습니까?",
+        "eng": "Do you want to delete this automation?"
+    },
+    "remove_automation_dialog_content_pre": {
+        "kor": "",
+        "eng": "Do you want to remove "
+    },
+    "remove_automation_dialog_content_post": {
+        "kor": "을/를 삭제하시겠습니까?",
+        "eng": "?"
+    },
+    "removed": {
+        "kor": "삭제되었습니다.",
+        "eng": "Deleted."
+    },
+    "max_automation": {
+        "kor": "더 이상 추가할 수 없습니다.",
+        "eng": "Max automation amount reached."
+    },
+    "condition_hint": {
+        "kor": "온도, 습도 등 환경 정보를 조건으로 사용할 수 있습니다.",
+        "eng": "Use states such as temperature, humidity, Etc. as condition of this automation."
+    },
+    "condition": {
+        "kor": "실행 조건",
+        "eng": "Condition"
+    },
+    "timer": {
+        "kor": "타이머",
+        "eng": "Time"
+    },
+    "add_action": {
+        "kor": "동작 추가",
+        "eng": "Reaction"
+    },
+    "action_hint": {
+        "kor": "위의 조건에 따라 개폐기, 환풍기 등을 제어할 수 있습니다.",
+        "eng": "Actuators, ventilators, etc. can be controlled according to the above conditions."
+    },
+    "action": {
+        "kor": "동작",
+        "eng": "Reaction"
+    },
+    "temperature": {
+        "kor": "기온",
+        "eng": "Temperature"
+    },
+    "solution_temperature": {
+        "kor": "용액 온도",
+        "eng": "Solution"
+    },
+    "humidity": {
+        "kor": "습도",
+        "eng": "Humidity"
+    },
+    "soil_temperature": {
+        "kor": "지온",
+        "eng": "Soil temperature"
+    },
+    "soil_moisture": {
+        "kor": "토양 함수율",
+        "eng": "Soild moisture"
+    },
+    "wind_speed": {
+        "kor": "풍속",
+        "eng": "Wind speed"
+    },
+    "illuminance": {
+        "kor": "조도",
+        "eng": "Illuminance"
+    },
+    "more_than": {
+        "kor": "이상",
+        "eng": "Higher"
+    },
+    "less_than": {
+        "kor": "이하",
+        "eng": "Lower"
+    },
+    "schedule_on_fail": {
+        "kor": "반복 횟수와 작동 시간을 설정해주세요.",
+        "eng": "Please set the iteration time and period time."
+    },
+    "new_routine": {
+        "kor": "새로운 반복 기능",
+        "eng": "New routine"
+    },
+    "copied_one": {
+        "kor": "복사본",
+        "eng": "Copied"
+    },
+    "no_motor_using_rainproof": {
+        "kor": "사용 중인 개폐기 없음",
+        "eng": "No actuators are using"
+    },
+    "rainproof_status": {
+        "kor": "개의 개폐기",
+        "eng": "Actuators"
+    },
+    "refresh": {
+        "kor": "새로고침",
+        "eng": "Refresh"
+    },
+    "member_management": {
+        "kor": "시설 구성원 관리",
+        "eng": "Facility members"
+    },
+    "search_facility": {
+        "kor": "시설 검색",
+        "eng": "Search"
+    },
+    "facility_search_hint": {
+        "kor": "시설 이름으로 검색",
+        "eng": "Search by facility name"
+    },
+    "search_hint": {
+        "kor": "가입할 시설 이름을 검색해주세요.",
+        "eng": "Search for facility name you want to sign up."
+    },
+    "search_result": {
+        "kor": "검색 결과",
+        "eng": "Result"
+    },
+    "no_search_result": {
+        "kor": "검색 결과가 없습니다.",
+        "eng": "No result"
+    },
+    "facility_join_request": {
+        "kor": "시설 가입 신청",
+        "eng": "Application"
+    },
+    "facility_join_hint": {
+        "kor": "시설 가입 신청 후, 시설 대표가 가입을 수락하면 내 시설 목록에 추가됩니다.",
+        "eng": "This facility will be added to your facility list after owner accept your application."
+    },
+    "facility_name": {
+        "kor": "시설 이름",
+        "eng": "Facility name"
+    },
+    "facility_owner": {
+        "kor": "시설 대표",
+        "eng": "Facility owner"
+    },
+    "apply": {
+        "kor": "가입 신청",
+        "eng": "Apply"
+    },
+    "apply_content_pre": {
+        "kor": "",
+        "eng": "Would you like to apply to join "
+    },
+    "apply_content_suf": {
+        "kor": "에 가입을 신청 하시겠습니까?",
+        "eng": "?"
+    },
+    "saved": {
+        "kor": "저장되었습니다.",
+        "eng": "Saved"
+    },
+    "leave": {
+        "kor": "탈퇴",
+        "eng": "Leave"
+    },
+    "uid": {
+        "kor": "UID",
+        "eng": "UID"
+    },
+    "already_member": {
+        "kor": "이미 가입된 시설입니다.",
+        "eng": "You are already member."
+    },
+    "already_applied": {
+        "kor": "이 시설에 이미 신청했습니다.",
+        "eng": "You already applied to this facility."
+    },
+    "facility_applied": {
+        "kor": "가입 신청되었습니다.",
+        "eng": "You have been applied."
+    },
+    "join_facility": {
+        "kor": "시설 가입",
+        "eng": "Join facility"
+    },
+    "apply_list": {
+        "kor": "가입 신청 목록",
+        "eng": "Applications to join this facility"
+    },
+    "accept": {
+        "kor": "수락",
+        "eng": "Accept"
+    },
+    "refuse": {
+        "kor": "거절",
+        "eng": "Refuse"
+    },
+    "no_permission": {
+        "kor": "권한 없음",
+        "eng": "No permission"
+    },
+    "user_already_member": {
+        "kor": "이미 가입돤 사용자입니다.",
+        "eng": "The user is already member."
+    },
+    "accepted": {
+        "kor": "수락되었습니다.",
+        "eng": "Accepted."
+    },
+    "refused": {
+        "kor": "거절되었습니다.",
+        "eng": "Refused."
+    },
+    "member_list": {
+        "kor": "시설 구성원 목록",
+        "eng": "Facility member list"
+    },
+    "lost_connection": {
+        "kor": "디바이스 연결 안 됨",
+        "eng": "Lost connection."
+    },
+    "lost_connection_content": {
+        "kor": "시설의 인터넷 상태 또는 전원 상태를 점검해주십시오. 마지막 연결: ",
+        "eng": "Please check your facility's internet status or power supply. Last connected: "
+    }
+}
